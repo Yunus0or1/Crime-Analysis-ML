@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1041881362070",
+    "project_id": "safe-walk-ccfff",
+    "storage_bucket": "safe-walk-ccfff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041881362070:android:123ae28e068fbb69d55cb7",
+        "android_client_info": {
+          "package_name": "com.safewalk.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041881362070-ht44uudj19qqc0hj76usbdbregmec3ij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.safewalk.app",
+            "certificate_hash": "749c4ea6bfbba35a88f15665c89333b678be76a8"
+          }
+        },
+        {
+          "client_id": "1041881362070-1t34889dhdqej3uj3e3rn260sptqfve7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEvFVSmO6zYxxd8TdokQR2z-uAL0un4JU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041881362070-1t34889dhdqej3uj3e3rn260sptqfve7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

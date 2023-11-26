@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>SafeWalk</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>SafeWalk</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(MARKETING_VERSION)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleSpokenName</key>
+	<string>SafeWalk</string>
+	<key>CFBundleURLTypes</key>
+	<key>CFBundleVersion</key>
+	<string>$(CURRENT_PROJECT_VERSION)</string>
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>SafeWalk would like to access your apple music</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>SafeWalk would like to access your Bluetooth</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>SafeWalk would like to access your Bluetooth</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>SafeWalk would like to access your calendar to make booking for a Valet.</string>
+	<key>NSCameraUsageDescription</key>
+	<string>SafeWalk would like to access your Camera for QR Scanning to verify the Valet whom you will hand over the car. It is secure and private</string>
+	<key>NSContactsUsageDescription</key>
+	<string>SafeWalk would like to access your contacts to call Valet whom you will hand over the car.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>SafeWalk would like to use your current location to track you while you are on your journey to airport so that Valet whom you will hand over the car can pin point you. It is secure.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>SafeWalk would like to use your current location to track you while you are on your journey to airport so that Valet whom you will hand over the car can pin point you. It is secure.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>SafeWalk would like to use your current location to track you while you are on your journey to airport so that Valet whom you will hand over the car can pin point you. It is secure.</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>SafeWalk would like to access your Microphone</string>
+	<key>NSMotionUsageDescription</key>
+	<string>SafeWalk would like to access your motion to correctly fetch your location</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>SafeWalk would like to access your Photo Library for image upload just for your profile image. The image is stored securely between SafeWalk authority and You.</string>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>SafeWalk would like to access your speech recognition</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+	<key>io.flutter.embedded_views_preview</key>
+	<true/>
+</dict>
+</plist>
